@@ -28,8 +28,8 @@ The Student class should include a method calculateGrade() that returns a grade 
 ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Madhesh I
-RegisterNumber:  212224220055
+Developed by: Prasanth T
+RegisterNumber:  212224040243
 */
 ```
 
