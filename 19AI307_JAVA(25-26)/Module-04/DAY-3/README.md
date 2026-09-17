@@ -23,8 +23,8 @@ To write a Java program that demonstrates composition by creating a Car class th
 ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Madhesh I
-RegisterNumber:  212224220055
+Developed by: Prasanth T
+RegisterNumber:  212224040243
 */
 ```
 ## SOURCE CODE:
