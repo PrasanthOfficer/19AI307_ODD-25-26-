@@ -23,8 +23,8 @@ To write a Java program that reads a thread name from the user, sets it to the c
 ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Madhesh I
-RegisterNumber:  212224220055
+Developed by: Prasanth T
+RegisterNumber:  212224040243
 */
 ```
 
