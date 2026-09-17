@@ -21,8 +21,8 @@ A static method info() that displays the message "Calculator is ready".
 ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Madhesh I
-RegisterNumber:  212224220055
+Developed by: Prasanth T
+RegisterNumber:  212224040243
 */
 ```
 ## SOURCE CODE:
