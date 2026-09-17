@@ -21,8 +21,8 @@ The program should provide public getter and setter methods for company_name, mo
 ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Madhesh I
-RegisterNumber:  212224220055
+Developed by: Prasanth T
+RegisterNumber:  212224040243
 */
 ```
 
