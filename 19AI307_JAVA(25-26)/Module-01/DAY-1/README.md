@@ -23,8 +23,8 @@ To write a Java program that prints the message "Hey, my first java program!" us
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Madhesh I
-RegisterNumber:  212224220055
+Developed by: Prasanth T
+RegisterNumber:  212224040243
 */
 ```
 
