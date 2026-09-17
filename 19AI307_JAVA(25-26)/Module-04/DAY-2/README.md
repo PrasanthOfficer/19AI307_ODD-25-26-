@@ -38,8 +38,8 @@ To implement a Singleton design pattern in Java so that only one instance of the
 ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Madhesh I
-RegisterNumber:  212224220055
+Developed by: Prasanth T
+RegisterNumber:  212224040243
 */
 ```
 
